@@ -38,3 +38,4 @@ Recommended trimming programs:
 Project start 2021-06-05
 TODO: something to do blabla
 一些崭新的改变，需要新的样本 2021-06-07
+\n\n 参考基因组版本：refgene3
