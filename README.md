@@ -38,3 +38,6 @@ Recommended trimming programs:
 Project start 2021-06-05
 
 样本数据测序于2021-6-8
+
+
+参考基因组版本为:version3
