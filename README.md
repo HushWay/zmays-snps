@@ -37,5 +37,3 @@ Recommended trimming programs:
 - Scythe
 Project start 2021-06-05
 
-
-参考基因组版本：refgene3
