@@ -36,4 +36,6 @@ Recommended trimming programs:
 - Trimmomatic
 - Scythe
 Project start 2021-06-05
-样本测序数据日期2021-06-08
+
+
+参考基因组版本：refgene3
