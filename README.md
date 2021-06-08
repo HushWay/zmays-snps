@@ -37,3 +37,4 @@ Recommended trimming programs:
 - Scythe
 Project start 2021-06-05
 
+样本数据测序于2021-6-8
